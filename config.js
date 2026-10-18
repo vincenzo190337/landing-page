@@ -45,9 +45,9 @@ const CONFIG = {
 
   /* ---------- কুর্তির ডিজাইন (একটা লাইন যোগ করলেই নতুন কার্ড আসবে) ---------- */
   products: [
-    { id: "k1", name: "Azure Vine.jpg", image: "kurti-1.jpg" },
-    { id: "k2", name: "Mauve Blossom.jpg", image: "kurti-2.jpg" },
-    { id: "k3", name: "Sage Serenity.jpg", image: "kurti-3.jpg" },
+    { id: "k1", name: "Azure-Vine", image: "kurti-1.jpg" },
+    { id: "k2", name: "Mauve-Blossom", image: "kurti-2.jpg" },
+    { id: "k3", name: "Sage-Serenity", image: "kurti-3.jpg" },
    
   ],
 
